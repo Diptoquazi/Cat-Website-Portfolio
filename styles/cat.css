@@ -1,3 +1,15 @@
-nav {
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+nav { 
     display: flex;
+}
+.nav-title { margin: 5px;
+     background-color: rgb(238, 236, 222);
+    color: rgb(247, 107, 14);
+    font-family: sans-serif;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
 }
